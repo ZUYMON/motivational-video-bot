@@ -2,7 +2,6 @@ name: Daily Motivational Video
 
 on:
   workflow_dispatch:
-
   schedule:
     - cron: "30 12 * * *"
 
