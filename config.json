@@ -1,0 +1,10 @@
+{
+  "video_duration_minutes": 3,
+  "voice": "en-US-GuyNeural",
+  "music_volume": 0.12,
+  "subtitle_font_size": 42,
+  "subtitle_margin_bottom": 90,
+  "video_width": 1920,
+  "video_height": 1080,
+  "youtube_privacy": "private"
+}
